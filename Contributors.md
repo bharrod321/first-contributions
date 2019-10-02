@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 
 - [Martin Wilson](https://github.com/martinwjwilson)
 - [NITIN KUMAR](https://github.com/nk095291)
@@ -16356,3 +16356,4 @@ Mário Baltazar
 - [Zeeslag](https://github.com/Z33SL4G)
 - [Biju M](https://github.com/biju4devops)
 - [Carlos M. Jimenez](https://github.com/cmjimenez90)
+- [Brad Harrod](https://github.com/bharrod321)
