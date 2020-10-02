@@ -1125,6 +1125,7 @@ Stephan Sharpe
 - [fsidiqs](https://github.com/fsidiqs)
 - [dootch](https://gihub.com/dootch)
 - [jomic](https://github.com/jomic)
+- [Brad Harrod](https://github.com/bharrod321)
 - [Heinrich](https://github.com/ostermeierh)
 - [Brianna Marie](https://github.com/BriMarieRod)
 - [baclona](https://github.com/gb853940223)
