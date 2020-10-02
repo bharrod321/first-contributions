@@ -5667,6 +5667,7 @@ Stephan Sharpe
 - [Marta Laís](https://github.com/martalais)
 - [Dan Bolta](https://github.com/dbolta)
 - [Andrea Mairegger](https://github.com/and-mai/)
+- [Brad Harrod](https://github.com/bharrod321)
 - [Dikshit Maheshwari](https://github.com/Dikshit15)
 - [Anton Höög](https://github.com/AntonHoog)
 - [Coreplo](https://github.com/Coreplo)
